@@ -1,1 +1,1 @@
-print("Hola mundo")
+privkvdknt("Hola mundo")
